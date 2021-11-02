@@ -1,0 +1,22 @@
+{
+  "name": "pdflib-cmd",
+  "version": "0.0.0",
+  "license": "MIT",
+  "description": "CMD for pdf-lib.js.org",
+  "author": "yuriti",
+  "main": "index.js",
+  "files": [
+    "src",
+    "index.js"
+  ],
+  "devDependencies": {},
+  "dependencies": {},
+  "scripts": {},
+  "bugs": "https://github.com/yuriti/pdflib-cmd/issues",
+  "homepage": "https://github.com/yuriti/pdflib-cmd",
+  "repository": "https://github.com/yuriti/pdflib-cmd.git",
+  "keywords": [
+    "CMD",
+    "pdflib"
+  ]
+}
